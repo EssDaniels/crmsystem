@@ -1,0 +1,2 @@
+customer,trade,scheduled_date,po_number,wo_number,nte,street,city,state,city_code,phone
+"My new Customer",HVAC,"2021-07-19 20:10",11111q1111,22222e2222,"1000,00","Main street 123",Chicago,IL,66562,999-111-2233
